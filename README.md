@@ -1,3 +1,3 @@
 # VeriYapilariVeAlgoritmalar
- # PROJE 1
+ # PROJELER
  www.patika.dev
